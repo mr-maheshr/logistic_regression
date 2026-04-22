@@ -1,2 +1,2 @@
-# Logistic_Regression
-Logistic Regression model for Sonar Rock vs Mine classification
+# ML Projects
+P1: Logistic Regression model for Sonar Rock vs Mine classification
